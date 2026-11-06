@@ -1,0 +1,21 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# Jupyter 缓存
+.ipynb_checkpoints/
+
+# Python 虚拟环境
+.venv/
+venv/
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.swp
+
+# Windows 系统文件
+Thumbs.db
+Desktop.ini
