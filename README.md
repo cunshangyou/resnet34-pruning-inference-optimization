@@ -519,7 +519,18 @@ test_benchmark_multiround.py
 
 ## 9. License
 
-本项目目前尚未指定开源许可证。公开发布前需进一步确认代码、预训练权重和数据集各自的授权条件。
+
+```
+This project is distributed under the
+Educational and Non-Commercial Research License (ENCRL) v1.0.
+
+See [LICENSE.md](LICENSE.md) for the complete terms.
+
+Commercial use and unauthorized redistribution are prohibited
+without prior written permission.
+
+Third-party materials remain subject to their respective licenses.
+```
 
 ---
 
